@@ -5,23 +5,25 @@
 Building clean and efficient solutions through code and innovation.
 > _"First, solve the problem. Then, write the code."_ — John Johnson
 
+---
 
+## Core Competencies
 
-## Core Technologies
 ```typescript
 const toolkit = {
-  languages: ["TypeScript", "JavaScript", "Python", "Java", "Dart"],
-  frameworks: ["React", "Next.js", "Node.js", "Flutter", "Django"],
-  systems: ["Git", "Linux", "Docker", "AWS"]
+  dataScience: ["Python", "Pandas", "PySpark", "Scikit-learn", "Machine Learning", "Data Analytics"],
+  languages: ["Python", "TypeScript", "JavaScript", "SQL"],
+  frameworks: ["Django", "React", "Next.js", "Node.js"],
+  infrastructure: ["Git", "Linux", "Docker", "AWS"]
 };
 ```
 
 
 ```typescript
-const Focus = {
-  Researching: ["AI Applications", "Cybersecurity", "Data Insights"],
-  Mastering: ["System Design", "Clean Architecture"],
-  OpenFor: ["Technical Collaborations", "Open-Source Projects"]
+const focus = {
+  researching: ["Machine Learning Applications", "Predictive Analytics", "Data-Driven Products"],
+  mastering: ["Data Pipelines", "System Design", "Clean Architecture"],
+  openFor: ["Data Science Collaborations", "Analytics Projects", "Open-Source Contributions"]
 };
 ```
 
